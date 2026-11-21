@@ -7,7 +7,7 @@ no dependencies.
 
 import os
 
-TEXT = "The kettle clicks off. Steam rises straight, then thins. A cup cools on the table; the spoon waits, still. Nothing asks you yet. Between one question and the next, nothing is missing \u2014 the quiet is not empty, it is only patient."
+TEXT = "The kettle clicks off. Steam rises straight, then thins. A cup cools on the table; the spoon waits, still. Outside, the light is doing nothing in particular. Nothing here needs deciding. The quiet is not empty \u2014 it is the room holding its breath, so you can catch yours."
 
 
 def main():
